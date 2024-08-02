@@ -1,0 +1,9 @@
+[packages]
+asgiref = "*"
+django = "*"
+django-cors-headers = "*"
+gunicorn = "*"
+packaging = "*"
+pillow = "*"
+sqlparse = "*"
+whitenoise= "*"
